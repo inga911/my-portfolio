@@ -1,0 +1,12 @@
+.footer-container {
+  color: rgb(131, 0, 138);
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+  width: 100%;
+  height: 9vh;
+  position: absolute;
+}
+.footer-container > p {
+  padding-top: 1em;
+  font-size: 13.5px;
+  align-items: center;
+}

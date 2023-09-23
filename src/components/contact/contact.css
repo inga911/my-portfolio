@@ -1,0 +1,108 @@
+.contact-container {
+  margin-top: 5%;
+  height: 100vh;
+  margin-top: 50%;
+  background-color: black;
+}
+
+.contact-title {
+  padding-top: 2em;
+  color: rgba(206, 32, 245, 0.813);
+}
+.form {
+  margin: 5% 5%;
+  padding: 1em;
+  background-color: aliceblue;
+  border-radius: 1em;
+}
+.name-phone {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+}
+.label > label {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: clamp(10px, 5vw, 15px);
+  color: rgb(89, 26, 149);
+  font-weight: 500;
+  padding: 0.1em;
+}
+.label > input {
+  width: 100%;
+  border: none;
+  height: 2.5em;
+  border-radius: 0.5em;
+  background-color: transparent;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.358);
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1px;
+  line-height: 2em;
+}
+textarea {
+  border-radius: 0.7em;
+  height: 150px;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1px;
+  line-height: 2em;
+}
+form > div {
+  padding: 1em;
+}
+
+button {
+  width: 95%;
+  padding: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  align-self: center;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 253, 205, 0.18539915966386555) 0%,
+    rgba(31, 249, 205, 0.31985294117647056) 0%,
+    rgba(131, 58, 180, 0.272233893557423) 100%
+  );
+  border: none;
+  border-radius: 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 253, 205, 1) 0%,
+    rgba(131, 58, 180, 1) 100%
+  );
+  opacity: 0.75;
+  color: rgb(255, 255, 255);
+}
+
+.send-icon {
+  font-size: 20px;
+  margin-top: 2px;
+  vertical-align: text-bottom;
+  margin-right: 10px;
+}
+@media (min-width: 640px) {
+  .contact-container {
+    margin-top: 15%;
+    height: 100vh;
+  }
+}
+
+@media (min-width: 750px) {
+  .form {
+    border: 1px solid grey;
+    width: 60vw;
+    margin: 0 20%;
+  }
+}

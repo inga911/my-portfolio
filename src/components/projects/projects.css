@@ -1,0 +1,94 @@
+.projects > p {
+  width: 85vw;
+}
+.project-container {
+  width: 80vw;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
+
+.project-card {
+  display: grid;
+  gap: 2%;
+}
+
+.project-item {
+  box-shadow: 0 5px 5px lightgray;
+  border-radius: 1.5em;
+  padding: 1em;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 253, 205, 0.18539915966386555) 0%,
+    rgba(31, 249, 205, 0.31985294117647056) 0%,
+    rgba(131, 58, 180, 0.272233893557423) 100%
+  );
+}
+.project-item:hover {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 253, 205, 1) 0%,
+    rgba(131, 58, 180, 1) 100%
+  );
+  opacity: 0.75;
+}
+img {
+  width: 90%;
+  height: 50%;
+  object-fit: contain;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.project-info {
+  transition: opacity 0.2s;
+  color: rgb(128, 73, 132);
+  font-size: clamp(16px, 5vw, 20px);
+}
+.project-item:hover .project-info {
+  color: aliceblue;
+}
+
+.project-link {
+  font-size: clamp(12px, 5vw, 18px);
+  color: rgb(253, 228, 253);
+  text-decoration: none;
+  padding: 10px;
+}
+.project-link:hover {
+  color: rgb(65, 7, 120);
+}
+.project-info > p,
+.project-info > h4 {
+  margin: 0.5em;
+}
+@media (min-width: 360px) {
+  .project-item {
+    width: 80vw;
+    margin: 0;
+  }
+}
+
+@media (min-width: 640px) {
+  .project-card {
+    grid-auto-flow: row;
+    grid-template-columns: 1fr 1fr;
+  }
+  .project-card {
+    margin-left: -3%;
+  }
+  .project-item {
+    width: 38vw;
+  }
+}
+
+@media (min-width: 750px) {
+  .project-card {
+    width: 60vw;
+    margin-left: 1%;
+  }
+}
