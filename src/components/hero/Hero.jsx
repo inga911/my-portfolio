@@ -4,26 +4,44 @@ import { TypeAnimation } from "react-type-animation";
 import heroImg from "../images/inga-img4.jpg";
 import { FaLinkedinIn, FaGithub } from "react-icons/fa";
 
-function App() {
-  // const [greeting, setGreeting] = useState("Hello");
+import i18n from "i18next";
+import { useTranslation, initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+import HttpApi from "i18next-http-backend";
 
-  // useEffect(() => {
-  //   const currentHour = new Date().getHours();
-  //   if (currentHour >= 5 && currentHour < 12) {
-  //     setGreeting("Good morning");
-  //   } else if (currentHour >= 12 && currentHour < 18) {
-  //     setGreeting("Good afternoon");
-  //   } else {
-  //     setGreeting("Good evening");
-  //   }
-  // }, []);
+i18n
+  .use(initReactI18next)
+  .use(LanguageDetector)
+  .use(HttpApi)
+  .init({
+    supportedLngs: ["en", "lt", "no"],
+    fallbackLng: "en",
+    detection: {
+      order: [
+        "cookie",
+        "htmlTag",
+        "localStorage",
+        "sessionStorage",
+        "path",
+        "subdomain",
+      ],
+      caches: ["cookie"],
+    },
+    backend: {
+      loadPath: "/assets/locales/{{lng}}/translation.json",
+    },
+    react: { useSuspense: false },
+  });
+
+function App() {
+  const { t } = useTranslation();
 
   return (
     <>
       <div id="hero" className="hero-container">
         <img src={heroImg} alt="img" className="hero-img" />
         <div className="greetings">
-          <h1 className="first-sentence">I am Inga Banaityte</h1>
+          <h1 className="first-sentence">{t("my_name")}</h1>
           <TypeAnimation
             className="animation"
             sequence={["The developer", 3000, "The coder", 2500]}

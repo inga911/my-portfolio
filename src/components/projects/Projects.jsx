@@ -6,12 +6,41 @@ import scroll from "../images/scroll.png";
 import bank from "../images/bank-create.png";
 import shop from "../images/shop-store.png";
 import calculator from "../images/calculator.png";
+import i18n from "i18next";
+import { useTranslation, initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+import HttpApi from "i18next-http-backend";
+
+i18n
+  .use(initReactI18next)
+  .use(LanguageDetector)
+  .use(HttpApi)
+  .init({
+    supportedLngs: ["en", "lt", "no"],
+    fallbackLng: "en",
+    detection: {
+      order: [
+        "cookie",
+        "htmlTag",
+        "localStorage",
+        "sessionStorage",
+        "path",
+        "subdomain",
+      ],
+      caches: ["cookie"],
+    },
+    backend: {
+      loadPath: "/assets/locales/{{lng}}/translation.json",
+    },
+    react: { useSuspense: false },
+  });
 
 function Projects() {
+  const { t } = useTranslation();
   return (
     <div id="projects" className="project-container">
-      <h2>Projects</h2>
-      <p>Here you can see some of the projects I have created for learning.</p>
+      <h2>{t("project_container")}</h2>
+      <p>{t("project_para")}</p>
       <div className="project-card">
         <div className="project-item">
           <img src={mainprojectImg} alt="/" />
@@ -24,7 +53,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See project
+              {t("see_project")}
             </a>
             <a
               href="https://github.com/inga911/to-do/tree/main/todo"
@@ -32,7 +61,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See code
+              {t("see_code")}
             </a>
           </div>
         </div>
@@ -55,7 +84,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See code
+              {t("see_code")}
             </a>
           </div>
         </div>
@@ -70,7 +99,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See project
+              {t("see_project")}
             </a>
             <a
               href="https://github.com/inga911/infinite-scroll"
@@ -78,7 +107,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See code
+              {t("see_code")}
             </a>
           </div>
         </div>
@@ -93,7 +122,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See project
+              {t("see_project")}
             </a>
             <a
               href="https://github.com/inga911/quote-generator"
@@ -101,7 +130,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See code
+              {t("see_code")}
             </a>
           </div>
         </div>
@@ -119,7 +148,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See code
+              {t("see_code")}
             </a>
           </div>
         </div>
@@ -134,7 +163,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See project
+              {t("see_project")}
             </a>
             <a
               href="https://github.com/inga911/calculator"
@@ -142,7 +171,7 @@ function Projects() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              See code
+              {t("see_code")}
             </a>
           </div>
         </div>

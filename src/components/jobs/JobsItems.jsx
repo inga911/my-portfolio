@@ -1,5 +1,6 @@
 import React from "react";
 import "./jobs.css";
+import PropTypes from "prop-types";
 
 function JobsItems({
   startYear,
@@ -27,5 +28,13 @@ function JobsItems({
     </>
   );
 }
+JobsItems.propTypes = {
+  startYear: PropTypes.string.isRequired,
+  endYear: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  company: PropTypes.string.isRequired,
+  duration: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+};
 
 export default JobsItems;

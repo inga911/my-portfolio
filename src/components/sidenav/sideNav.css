@@ -46,6 +46,13 @@
   transition: ease-in-out 0.5s;
   box-shadow: 0 1.5px 1.5px lightgray;
 }
+.nav-icon {
+  font-size: 25px;
+  align-self: center;
+}
+.nav-link > span {
+  align-self: center;
+}
 .small-nav {
   display: none;
   position: fixed;

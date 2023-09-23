@@ -2,30 +2,44 @@ import React from "react";
 import "./about.css";
 import heroImg from "../images/inga-img2.jpg";
 
+import i18n from "i18next";
+import { useTranslation, initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+import HttpApi from "i18next-http-backend";
+
+i18n
+  .use(initReactI18next)
+  .use(LanguageDetector)
+  .use(HttpApi)
+  .init({
+    supportedLngs: ["en", "lt", "no"],
+    fallbackLng: "en",
+    detection: {
+      order: [
+        "cookie",
+        "htmlTag",
+        "localStorage",
+        "sessionStorage",
+        "path",
+        "subdomain",
+      ],
+      caches: ["cookie"],
+    },
+    backend: {
+      loadPath: "/assets/locales/{{lng}}/translation.json",
+    },
+    react: { useSuspense: false },
+  });
+
 function About() {
+  const { t } = useTranslation();
   return (
     <>
       <div id="about" className="about-me-container">
         <img src={heroImg} alt="img" className="about-img" />
         <div className="text-column">
-          <h3 className="about-title">Briefly about me</h3>
-          <p className="about-text">
-            In the fall of 2022, I realized that I wanted to change my career
-            direction. I was always interesting in technology so i decided to
-            look into the possibilities of IT, I decided to dive into these vast
-            areas. After weighing all the benefits and risks, I started this
-            path with Back-End | PHP courses, to which I devoted all my free
-            time. <br></br>Through various work experiences, I have gained
-            various skill set, such as paying attention to small details, which
-            is useful when creating websites/apps, communicating with clients -
-            I am able to listen and properly respond to their needs, working in
-            a team to achieve common goals and contributing effectively to the
-            project. I have experience with Windows system, PHP, Laravel,
-            React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js,
-            Bootstrap. <br></br> I look forward to the opportunity to apply my
-            accumulated knowledge to create professional websites and apps. I am
-            determined to constantly improve my skills.
-          </p>
+          <h3 className="about-title">{t("about")}</h3>
+          <p className="about-text">{t("about_txt")}</p>
         </div>
       </div>
     </>
