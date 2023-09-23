@@ -58,6 +58,8 @@
 
 .description {
   color: rgb(132, 129, 129);
+  white-space: pre-line;
+  line-height: 1.5em;
 }
 
 @media (min-width: 360px) {

@@ -9,20 +9,35 @@ const data = [
     title: "Seller / driver",
     company: "Diplom-Is AS",
     duration: "3 years 4 months",
-    description: `▪️ Communication with customers 
-     ▪️ Achieving common goals in a team 
-     ▪️ Daily document filling 
-     ▪️ Driving and sales - cashier work `,
+    description: `
+    ‧ Assesing sales data and implicate new tactics to achieve better results
+    ‧ Communication with customers
+    ‧ Achieving common goals in a team
+    ‧ Daily documentation filling
+    ‧ Execution of planned works on the routes
+    ‧ New sales techniques implementation,
+    ‧ Daily health and safety checks`,
   },
   {
     startYear: "2017 / 09",
     endYear: "2018 / 06",
-    title: "Dental assistant",
+    title: "Dental hygienist/ Dentist assistant",
     company: "PROMEDICA Familly Clinic",
     duration: "11 months",
-    description: ` ▪️ Cleaned and sanitized dental tools, equipment and  treatment rooms, and restocked supplies to prep for next patient and maintain health and safety practices  
-     ▪️ Scheduled appointments for new and existing customers, factoring in provider availability and scheduling loads 
-     ▪️ Communication with patients`,
+    description: ` 
+    ‧ Assessing patients' oral health and change documentation.
+    ‧ Perform dental cleanings.
+    ‧ Demonstrating proper brushing and flossing techniques.
+    ‧ Collaborating with the dentist to create treatment plans for patients.
+    ‧ Updating treatment plans and patient records.
+    ‧ Taking dental X-rays as needed for diagnosis and treatment planning.
+    ‧ Sterilizing and maintaining dental instruments and equipment to ensure infection control.
+    ‧ Ordering dental supplies and maintaining inventory.
+    ‧ Assisting the dentist during procedures.
+    ‧ Supply and stock management. 
+    ‧ Facility preparation for new patients. 
+    ‧ Workload planing. 
+    ‧ Communication with patients.`,
   },
   {
     startYear: "2016 / 04",
@@ -30,16 +45,15 @@ const data = [
     title: "Retail Salesperson",
     company: "APRANGA Group",
     duration: "1 year 4 month",
-    description: ` ▪️ Greet and communicate with customers. 
-     ▪️ Consult with customers to understand their needs and preferences regarding merchandise.
-     ▪️ Demonstrate and explain products, selecting and offering options that meet the customer's needs.
-     ▪️ Answer customer questions about products.
-     ▪️ Help customers make purchasing decisions.
-     ▪️ Pick up goods from the sales warehouse; provides special orders.
-     ▪️ Collect payment using the store's point-of-sale system.
-     ▪️ Process returns and exchanges.
-     ▪️ Perform other assigned duties.
-     `,
+    description: `
+    ‧ Communicate and consult with customers. 
+    ‧ Demonstrate and explain products properties.
+    ‧ Implement sales tactics.
+    ‧ Monitor and restock merchandise on the sales floor.
+    ‧ Conduct inventory count to ensure accurate stock levels.
+    ‧ Resolve customer complaints or issues.
+    ‧ Prepair sales reports or documentation .
+    `,
   },
 ];
 function Jobs() {
