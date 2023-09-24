@@ -1,0 +1,43 @@
+{
+    "lang_choose": "Språk",
+    "my_name": "Jeg heter Inga Banaityte",
+    "about": "Kort om meg",
+    "about_txt": "Høsten 2022 skjønte jeg at jeg ville endre karriereretningen min. Jeg var alltid interessert i teknologi, så jeg bestemte meg for å se på mulighetene innen IT. Jeg bestemte meg for å dykke inn i disse områdene. Etter å ha veid alle fordelene og risikoene, startet jeg denne veien med Back-End | PHP-kurs, som jeg viet all min fritid til. Gjennom ulike arbeidserfaringer har jeg tilegnet meg ulike ferdigheter, som å legge merke til små detaljer, noe som er nyttig når du lager nettsider/applikasjoner, kommunisere med kunder - jeg kan lytte og svare på deres behov, jobbe i et team for å oppnå felles mål og bidra effektivt til prosjektet. Jeg har erfaring med Windows-systemet, PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, Bootstrap. Jeg ser frem til muligheten til å anvende min akkumulerte kunnskap for å lage profesjonelle nettsider og applikasjoner. Jeg er fast bestemt på å stadig forbedre mine ferdigheter.",
+    "work_experience": "Arbeidserfaring",
+    "job_items": [
+        {
+            "startYear": "2020 / 03",
+            "endYear": "2023 / 07",
+            "title": "Selger/sjåfør",
+            "company": "Diplom-Is AS",
+            "duration": "3 år 4 måneder",
+            "description": "‧ Vurdere salgsdata og implisere nye taktikker for å oppnå bedre resultater.‧ Kommunikasjon med kunder.‧ Oppnå felles mål i et team.‧ Daglig dokumentasjonsfylling.‧ Gjennomføring av planlagte arbeider på rutene.‧ Implementering av nye salgsteknikker.‧ Daglig helse og sikkerhetskontroller.`"
+        },
+        {
+            "startYear": "2017 / 09",
+            "endYear": "2018 / 06",
+            "title": "Tannpleier/ Tannlegeassistent",
+            "company": "PROMEDICA familieklinikk",
+            "duration": "11 måneder",
+            "description": "‧ Vurdere pasienters munnhelse og endringsdokumentasjon.‧ Utfør tannrens.‧ Demonstrere riktige pusse- og bruksteknikker.‧ Samarbeide med tannlegen for å lage behandlingsplaner for pasienter.‧ Oppdatere behandlingsplaner og pasientjournaler.‧ Ta tannrøntgen som nødvendig for diagnose og behandlingsplanlegging.‧ Sterilisering og vedlikehold av tanninstrumenter og utstyr for å sikre infeksjonskontroll.‧ Bestilling av tannrekvisita og vedlikehold av inventar.‧ Assistere tannlegen under prosedyrer.‧ Forsyning og lagerstyring. ‧ Fasilitetsforberedelse for nye pasienter. ‧ Arbeidsbelastningsplaning. ‧ Kommunikasjon med pasienter."
+        },
+        {
+            "startYear": "2016 / 04",
+            "endYear": "2017 / 08",
+            "title": "Butikk selger",
+            "company": "APRANGA Group",
+            "duration": "1 år 4 måneder",
+            "description": "‧ Kommuniser og rådfør deg med kunder. ‧ Demonstrer og forklar produktenes egenskaper.‧ Implementer salgstaktikker.‧ Overvåk og fyll opp varer på salgsgulvet.‧ Gjennomfør lagertelling for å sikre nøyaktige lagernivåer.‧ Løs kundeklager eller problemer.‧ Forbered salgsrapporter eller dokumentasjon."
+        }
+    ],
+    "project_container": "Prosjekter",
+    "project_para": "Her kan du se noen av prosjektene jeg har laget for læring.",
+    "see_project": "Se prosjekt",
+    "see_code": "Se kodekilde",
+    "contact_container": "Ta kontakt meg",
+    "nav_home": "Hjem",
+    "nav_resume": "Gjenoppta",
+    "nav_work": "Arbeidserfaring",
+    "nav_projects": "Prosjekter",
+    "nav_contact": "Kontakt"
+}
