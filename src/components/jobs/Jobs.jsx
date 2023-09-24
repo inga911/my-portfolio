@@ -32,11 +32,13 @@ i18n
 
 function Jobs() {
   const { t } = useTranslation();
+  const jobItems = t("job_items", { returnObjects: true });
+
   return (
-    <>
-      <div id="jobs" className="jobs-container">
-        <h2>{t("work_experience")}</h2>
-        {t("job_items", { returnObjects: true }).map((item, idx) => (
+    <div id="jobs" className="jobs-container">
+      <h2>{t("work_experience")}</h2>
+      {Array.isArray(jobItems) &&
+        jobItems.map((item, idx) => (
           <JobsItems
             key={idx}
             startYear={item.startYear}
@@ -47,8 +49,7 @@ function Jobs() {
             description={item.description}
           />
         ))}
-      </div>
-    </>
+    </div>
   );
 }
 
