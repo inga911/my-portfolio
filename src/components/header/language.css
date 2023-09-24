@@ -1,0 +1,13 @@
+.language-container {
+  position: absolute;
+  margin: 2%;
+}
+.language-dropdown > button {
+  font-size: 10px;
+}
+.globe {
+  font-size: 20px;
+}
+.dropdown-menu > li > .dropdown-item > [countryFlags] {
+  vertical-align: sub;
+}

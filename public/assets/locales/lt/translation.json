@@ -1,7 +1,8 @@
 {
-    "my_name": "Mano vardas Inga Banaityte",
+    "lang_choose": "Kalba",
+    "my_name": "Aš - Inga Banaityte",
     "about": "Trumpai apie mane",
-    "about_txt": "2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Man visada buvo įdomios technologijos, todėl nusprendžiau pažvelgti į IT galimybes, nusprendžiau pasinerti į šias plačias sritis. Pasvėręs visus privalumus ir riziką, pradėjau šį kelią su Back-End | PHP kursai, kuriems skyriau visą savo laisvalaikį. Per įvairią darbo patirtį įgijau įvairių įgūdžių, tokių kaip dėmesys smulkmenoms, kas praverčia kuriant svetaines/programėles, bendraujant su klientais – gebu išklausyti ir tinkamai reaguoti į jų poreikius, dirbu komandoje siekti bendrų tikslų ir veiksmingai prisidėti prie projekto. Turiu patirties su Windows sistema, PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, Bootstrap. Laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles. Esu pasiryžusi nuolat tobulinti savo įgūdžius.",
+    "about_txt": "2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Man visada buvo įdomios technologijos, todėl nusprendžiau pažvelgti į IT galimybes ir pasinerti į šią plačią sritį. Šį kelią pradėjau su Back-End | PHP kursais, kuriems skyriau visą savo laisvalaikį. Per įvairią darbo patirtį įgijau įvairių įgūdžių, tokių kaip dėmesys smulkmenoms, kas praverčia kuriant svetaines/programėles, bendrauti su klientais – gebu išklausyti ir tinkamai reaguoti į jų poreikius, dirbti komandoje siekti bendrų tikslų ir veiksmingai prisidėti prie projekto. Turiu patirties su Windows sistema, PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, Bootstrap. Laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles. Esu pasiryžusi nuolat tobulinti savo įgūdžius.",
     "work_experience": "Darbo patirtis",
     "job_items": [
         {
