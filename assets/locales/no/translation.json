@@ -11,7 +11,7 @@
             "title": "Selger/sjåfør",
             "company": "Diplom-Is AS",
             "duration": "3 år 4 måneder",
-            "description": "‧ Vurdere salgsdata og implisere nye taktikker for å oppnå bedre resultater.‧ Kommunikasjon med kunder.‧ Oppnå felles mål i et team.‧ Daglig dokumentasjonsfylling.‧ Gjennomføring av planlagte arbeider på rutene.‧ Implementering av nye salgsteknikker.‧ Daglig helse og sikkerhetskontroller.`"
+            "description": "‧ Vurdere salgsdata og implisere nye taktikker for å oppnå bedre resultater.\n‧ Kommunikasjon med kunder.\n‧ Oppnå felles mål i et team.\n‧ Daglig dokumentasjonsfylling.\n‧ Gjennomføring av planlagte arbeider på rutene.\n‧ Implementering av nye salgsteknikker.\n‧ Daglig helse og sikkerhetskontroller."
         },
         {
             "startYear": "2017 / 09",
@@ -19,7 +19,7 @@
             "title": "Tannpleier/ Tannlegeassistent",
             "company": "PROMEDICA familieklinikk",
             "duration": "11 måneder",
-            "description": "‧ Vurdere pasienters munnhelse og endringsdokumentasjon.‧ Utfør tannrens.‧ Demonstrere riktige pusse- og bruksteknikker.‧ Samarbeide med tannlegen for å lage behandlingsplaner for pasienter.‧ Oppdatere behandlingsplaner og pasientjournaler.‧ Ta tannrøntgen som nødvendig for diagnose og behandlingsplanlegging.‧ Sterilisering og vedlikehold av tanninstrumenter og utstyr for å sikre infeksjonskontroll.‧ Bestilling av tannrekvisita og vedlikehold av inventar.‧ Assistere tannlegen under prosedyrer.‧ Forsyning og lagerstyring. ‧ Fasilitetsforberedelse for nye pasienter. ‧ Arbeidsbelastningsplaning. ‧ Kommunikasjon med pasienter."
+            "description": "‧ Vurdere pasienters munnhelse og endringsdokumentasjon.\n‧ Utfør tannrens.\n‧ Demonstrere riktige pusse- og bruksteknikker.\n‧ Samarbeide med tannlegen for å lage behandlingsplaner for pasienter.\n‧ Oppdatere behandlingsplaner og pasientjournaler.\n‧ Ta tannrøntgen som nødvendig for diagnose og behandlingsplanlegging.\n‧ Sterilisering og vedlikehold av tanninstrumenter og utstyr for å sikre infeksjonskontroll.\n‧ Bestilling av tannrekvisita og vedlikehold av inventar.\n‧ Assistere tannlegen under prosedyrer.\n‧ Forsyning og lagerstyring.\n‧ Fasilitetsforberedelse for nye pasienter.\n‧ Arbeidsbelastningsplaning.\n‧ Kommunikasjon med pasienter."
         },
         {
             "startYear": "2016 / 04",
@@ -27,7 +27,7 @@
             "title": "Butikk selger",
             "company": "APRANGA Group",
             "duration": "1 år 4 måneder",
-            "description": "‧ Kommuniser og rådfør deg med kunder. ‧ Demonstrer og forklar produktenes egenskaper.‧ Implementer salgstaktikker.‧ Overvåk og fyll opp varer på salgsgulvet.‧ Gjennomfør lagertelling for å sikre nøyaktige lagernivåer.‧ Løs kundeklager eller problemer.‧ Forbered salgsrapporter eller dokumentasjon."
+            "description": "‧ Kommuniser og rådfør deg med kunder.\n‧ Demonstrer og forklar produktenes egenskaper.\n‧ Implementer salgstaktikker.\n‧ Overvåk og fyll opp varer på salgsgulvet.\n‧ Gjennomfør lagertelling for å sikre nøyaktige lagernivåer.\n‧ Løs kundeklager eller problemer.\n‧ Forbered salgsrapporter eller dokumentasjon."
         }
     ],
     "project_container": "Prosjekter",
@@ -39,5 +39,15 @@
     "nav_resume": "Gjenoppta",
     "nav_work": "Arbeidserfaring",
     "nav_projects": "Prosjekter",
-    "nav_contact": "Kontakt"
+    "nav_contact": "Kontakt",
+    "contact_name_label": "Navn",
+    "contact_name_input": "Skriv inn navnet ditt",
+    "contact_phone_label": "Telefonnummer",
+    "contact_phone_input": "Tast inn ditt telefonnummer",
+    "contact_email_label": "E-post",
+    "contact_email_input": "Skriv inn din email",
+    "contact_subject_label": "Emne",
+    "contact_subject_input": "Skriv inn emne her",
+    "contact_message_label": "Meldingen",
+    "contact_message_input": "Skriv meldingen din her"
 }
