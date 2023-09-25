@@ -33,7 +33,7 @@ i18n
       caches: ["cookie"],
     },
     backend: {
-      loadPath: "/my-portfolio/locales/{{lng}}/translation.json",
+      loadPath: "/my-portfolio/assets/locales/{{lng}}/translation.json",
     },
     react: { useSuspense: false },
   });
