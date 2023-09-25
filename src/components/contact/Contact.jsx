@@ -44,44 +44,50 @@ function Contact() {
           >
             <div className="name-phone">
               <div className="label">
-                <label>Name</label>
-                <input type="text" name="name" placeholder="Enter your name" />
+                <label>{t("contact_name_label")}</label>
+                <input
+                  type="text"
+                  name="name"
+                  placeholder={t("contact_name_input")}
+                />
               </div>
               <div className="label">
-                <label>Phone</label>
+                <label>{t("contact_phone_label")}</label>
                 <input
                   type="text"
                   name="phone"
-                  placeholder="Enter your phone number"
+                  inputMode="numeric"
+                  pattern="[0-9]*"
+                  placeholder={t("contact_phone_input")}
                 />
               </div>
             </div>
             <div className="sender-info">
               <div className="label">
-                <label>Email</label>
+                <label>{t("contact_email_label")}</label>
                 <input
                   type="email"
                   name="email"
-                  placeholder="Enter your e-mail"
+                  placeholder={t("contact_email_input")}
                 />
               </div>
             </div>
             <div className="sender-info">
               <div className="label">
-                <label>Subject</label>
+                <label>{t("contact_subject_label")}</label>
                 <input
                   type="text"
                   name="subject"
-                  placeholder="Type subject here"
+                  placeholder={t("contact_subject_input")}
                 />
               </div>
             </div>
             <div className="label">
-              <label>Message</label>
+              <label>{t("contact_message_label")}</label>
               <textarea
                 type="10"
                 name="message"
-                placeholder="Type your message here"
+                placeholder={t("contact_message_input")}
               ></textarea>
             </div>
 

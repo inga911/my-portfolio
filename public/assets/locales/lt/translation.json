@@ -11,7 +11,7 @@
             "title": "Pardavėjas / vairuotojas",
             "company": "Diplom-Is AS",
             "duration": "3 metai 4 mėnesiai",
-            "description": "‧ Pardavimo duomenų vertinimas ir naujų taktikos įvedimas siekiant geresnių rezultatų.‧ Bendravimas su klientais.‧ Bendrų tikslų siekimas komandoje.‧ Kasdienis dokumentacijos pildymas.‧ Suplanuotų darbų vykdymas maršrutuose.‧ Naujų pardavimo technikų diegimas.‧ Kasdieninė sveikata ir. saugos patikrinimai.`"
+            "description": "‧ Pardavimo duomenų vertinimas ir naujų taktikos įvedimas siekiant geresnių rezultatų.\n‧ Bendravimas su klientais.\n‧ Bendrų tikslų siekimas komandoje.\n‧ Kasdienis dokumentacijos pildymas.\n‧ Suplanuotų darbų vykdymas maršrutuose.\n‧ Naujų pardavimo technikų diegimas.\n‧ Kasdieninė sveikata ir saugos patikrinimai."
         },
         {
             "startYear": "2017 / 09",
@@ -19,7 +19,7 @@
             "title": "Dantų higienistė/odontologo padėjėja",
             "company": "PROMEDICA Šeimos klinika",
             "duration": "11 mėnesiai",
-            "description": "‧ Pacientų burnos sveikatos įvertinimas ir dokumentacijos pakeitimas. ‧ Dantų valymo atlikimas. ‧ Tinkamų valymo šepetėliu ir siūlu technikų demonstravimas. ‧ Bendradarbiavimas su odontologu kuriant pacientų gydymo planus. ‧ Gydymo planų ir pacientų įrašų atnaujinimas. reikalinga diagnostikai ir gydymo planavimui.‧ Stomatologinių instrumentų ir įrangos sterilizavimas ir priežiūra, siekiant užtikrinti infekcijų kontrolę.‧ Odontologijos reikmenų užsakymas ir inventoriaus tvarkymas.‧ Pagalba odontologui atliekant procedūras.‧ Tiekimo ir atsargų valdymas. ‧ Įstaigos paruošimas naujiems pacientams. ‧ Darbo krūvio planavimas. ‧ Bendravimas su pacientais."
+            "description": "‧ Pacientų burnos sveikatos įvertinimas ir dokumentacijos pakeitimas.\n‧ Dantų valymo atlikimas.\n‧ Tinkamų valymo šepetėliu ir siūlu technikų demonstravimas.\n‧ Bendradarbiavimas su odontologu kuriant pacientų gydymo planus.\n‧ Gydymo planų ir pacientų įrašų atnaujinimas. reikalinga diagnostikai ir gydymo planavimui.\n‧ Stomatologinių instrumentų ir įrangos sterilizavimas ir priežiūra, siekiant užtikrinti infekcijų kontrolę.\n‧ Odontologijos reikmenų užsakymas ir inventoriaus tvarkymas.\n‧ Pagalba odontologui atliekant procedūras.\n‧ Tiekimo ir atsargų valdymas.\n‧ Įstaigos paruošimas naujiems pacientams.\n‧ Darbo krūvio planavimas.\n‧ Bendravimas su pacientais."
         },
         {
             "startYear": "2016 / 04",
@@ -27,7 +27,7 @@
             "title": "Pardavėja",
             "company": "APRANGA Group",
             "duration": "1 metai 4 mėnesiai",
-            "description": "‧ Bendrauti ir konsultuotis su klientais. ‧ Parodykite ir paaiškinkite produktų savybes. ‧ Įdiekite pardavimo taktiką. ‧ Stebėkite ir papildykite prekes pardavimo aikštelėje. ‧ Atlikite atsargų skaičiavimą, kad užtikrintumėte tikslų atsargų lygį. ‧ Spręskite klientų skundus ar problemas. ‧ Rengkite pardavimo ataskaitas arba dokumentus."
+            "description": "‧ Bendrauti ir konsultuotis su klientais.\n‧ Parodykite ir paaiškinkite produktų savybes.\n‧ Įdiekite pardavimo taktiką.\n‧ Stebėkite ir papildykite prekes pardavimo aikštelėje.\n‧ Atlikite atsargų skaičiavimą, kad užtikrintumėte tikslų atsargų lygį.\n‧ Spręskite klientų skundus ar problemas.\n‧ Rengkite pardavimo ataskaitas arba dokumentus."
         }
     ],
     "project_container": "Projektai",
@@ -39,5 +39,15 @@
     "nav_resume": "Trumpai apie mane",
     "nav_work": "Darbo patirtis",
     "nav_projects": "Projektai",
-    "nav_contact": "Susisiekite su manimi"
+    "nav_contact": "Susisiekite su manimi",
+    "contact_name_label": "Vardas",
+    "contact_name_input": "Įveskite savo vardą",
+    "contact_phone_label": "Telefono numeris",
+    "contact_phone_input": "Įveskite savo telefono numerį",
+    "contact_email_label": "El. paštas",
+    "contact_email_input": "Įrašykite savo el. paštą",
+    "contact_subject_label": "Tema",
+    "contact_subject_input": "Įveskite temą čia",
+    "contact_message_label": "Pranešimas",
+    "contact_message_input": "Įveskite savo žinutę čia"
 }

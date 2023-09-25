@@ -11,7 +11,7 @@
             "title": "Seller / driver",
             "company": "Diplom-Is AS",
             "duration": "3 years 4 months",
-            "description": "‧ Assesing sales data and implicate new tactics to achieve better results.‧ Communication with customers.‧ Achieving common goals in a team.‧ Daily documentation filling.‧ Execution of planned works on the routes.‧ New sales techniques implementation.‧ Daily health and safety checks.`"
+            "description": "‧ Assessing sales data and implicate new tactics to achieve better results.\n‧ Communication with customers.\n‧ Achieving common goals in a team.\n‧ Daily documentation filling.\n‧ Execution of planned works on the routes.\n‧ New sales techniques implementation.\n‧ Daily health and safety checks."
         },
         {
             "startYear": "2017 / 09",
@@ -19,15 +19,15 @@
             "title": "Dental hygienist/ Dentist assistant",
             "company": "PROMEDICA Familly Clinic",
             "duration": "11 months",
-            "description": "‧ Assessing patients' oral health and change documentation.‧ Perform dental cleanings.‧ Demonstrating proper brushing and flossing techniques.‧ Collaborating with the dentist to create treatment plans for patients.‧ Updating treatment plans and patient records.‧ Taking dental X-rays as needed for diagnosis and treatment planning.‧ Sterilizing and maintaining dental instruments and equipment to ensure infection control.‧ Ordering dental supplies and maintaining inventory.‧ Assisting the dentist during procedures.‧ Supply and stock management. ‧ Facility preparation for new patients. ‧ Workload planing. ‧ Communication with patients."
+            "description": "‧ Assessing patients' oral health and change documentation.\n‧ Perform dental cleanings.\n‧ Demonstrating proper brushing and flossing techniques.\n‧ Collaborating with the dentist to create treatment plans for patients.\n‧ Updating treatment plans and patient records.\n‧ Taking dental X-rays as needed for diagnosis and treatment planning.\n‧ Sterilizing and maintaining dental instruments and equipment to ensure infection control.\n‧ Ordering dental supplies and maintaining inventory.\n‧ Assisting the dentist during procedures.\n‧ Supply and stock management.\n‧ Facility preparation for new patients.\n‧ Workload planning.\n‧ Communication with patients."
         },
         {
             "startYear": "2016 / 04",
             "endYear": "2017 / 08",
             "title": "Retail Salesperson",
             "company": "APRANGA Group",
-            "duration": "1 year 4 month",
-            "description": "‧ Communicate and consult with customers. ‧ Demonstrate and explain products properties.‧ Implement sales tactics.‧ Monitor and restock merchandise on the sales floor.‧ Conduct inventory count to ensure accurate stock levels.‧ Resolve customer complaints or issues.‧ Prepair sales reports or documentation."
+            "duration": "1 year 4 months",
+            "description": "‧ Communicate and consult with customers.\n‧ Demonstrate and explain product properties.\n‧ Implement sales tactics.\n‧ Monitor and restock merchandise on the sales floor.\n‧ Conduct inventory count to ensure accurate stock levels.\n‧ Resolve customer complaints or issues.\n‧ Prepare sales reports or documentation."
         }
     ],
     "project_container": "Projects",
@@ -39,5 +39,15 @@
     "nav_resume": "Resume",
     "nav_work": "Work",
     "nav_projects": "Projects",
-    "nav_contact": "Contact"
+    "nav_contact": "Contact",
+    "contact_name_label": "Name",
+    "contact_name_input": "Enter your name",
+    "contact_phone_label": "Phone number",
+    "contact_phone_input": "Enter your phone number",
+    "contact_email_label": "Email",
+    "contact_email_input": "Enter your e-mail",
+    "contact_subject_label": "Subject",
+    "contact_subject_input": "Type subject here",
+    "contact_message_label": "Message",
+    "contact_message_input": "Type your message here"
 }

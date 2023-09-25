@@ -54,7 +54,7 @@ img {
 }
 
 .project-link {
-  font-size: clamp(12px, 5vw, 18px);
+  font-size: clamp(10px, 3.5vw, 18px);
   color: rgb(253, 228, 253);
   text-decoration: none;
   padding: 10px;
