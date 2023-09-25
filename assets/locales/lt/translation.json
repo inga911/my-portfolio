@@ -49,5 +49,6 @@
     "contact_subject_label": "Tema",
     "contact_subject_input": "Įveskite temą čia",
     "contact_message_label": "Pranešimas",
-    "contact_message_input": "Įveskite savo žinutę čia"
+    "contact_message_input": "Įveskite savo žinutę čia",
+    "send_message": "Siųsti pranešimą"
 }
