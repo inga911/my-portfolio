@@ -49,5 +49,6 @@
     "contact_subject_label": "Emne",
     "contact_subject_input": "Skriv inn emne her",
     "contact_message_label": "Meldingen",
-    "contact_message_input": "Skriv meldingen din her"
+    "contact_message_input": "Skriv meldingen din her",
+    "send_message": "Send meldingen"
 }

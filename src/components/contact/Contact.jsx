@@ -93,7 +93,7 @@ function Contact() {
 
             <button>
               <AiOutlineSend className="send-icon" />
-              Send Message
+              {t("send_message")}
             </button>
           </form>
         </div>
