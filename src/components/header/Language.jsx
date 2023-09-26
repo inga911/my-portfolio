@@ -64,15 +64,24 @@ function Language() {
       <div className="language-container">
         <div className="language-dropdown">
           <button
-            className="btn btn-secondary dropdown-toggle"
+            className="lang-btn dropdown-toggle"
             type="button"
             id="dropdownMenuButton1"
             data-bs-toggle="dropdown"
-            aria-expanded="false"
           >
-            <AiOutlineGlobal className="globe" /> {t("lang_choose")}
+            <ReactCountryFlag
+              className="current-lng-flag"
+              countryCode={
+                languages.find((lang) => lang.code === currentLanguageCode)
+                  ?.country_code
+              }
+              svg
+            />
           </button>
-          <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <ul
+            className="dropdown-menu dropdown-dark-bg"
+            aria-labelledby="dropdownMenuButton1"
+          >
             {languages.map(({ code, name, country_code }) => (
               <li key={country_code}>
                 <a

@@ -36,7 +36,7 @@ function Jobs() {
 
   return (
     <div id="jobs" className="jobs-container">
-      <h2>{t("work_experience")}</h2>
+      <h2 className="container-title">{t("work_experience")}</h2>
       {Array.isArray(jobItems) &&
         jobItems.map((item, idx) => (
           <JobsItems

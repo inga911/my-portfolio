@@ -66,10 +66,16 @@
   .jobs-container {
     margin: 5%;
   }
+  .container-title {
+    margin: 10%;
+  }
 }
 
 @media (min-width: 750px) {
   .jobs-container {
     margin-left: 15%;
+  }
+  .container-title {
+    margin: 5%;
   }
 }

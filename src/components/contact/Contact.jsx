@@ -42,25 +42,13 @@ function Contact() {
             method="post"
             encType="multipart/form-data"
           >
-            <div className="name-phone">
-              <div className="label">
-                <label>{t("contact_name_label")}</label>
-                <input
-                  type="text"
-                  name="name"
-                  placeholder={t("contact_name_input")}
-                />
-              </div>
-              <div className="label">
-                <label>{t("contact_phone_label")}</label>
-                <input
-                  type="text"
-                  name="phone"
-                  inputMode="numeric"
-                  pattern="[0-9]*"
-                  placeholder={t("contact_phone_input")}
-                />
-              </div>
+            <div className="label">
+              <label>{t("contact_name_label")}</label>
+              <input
+                type="text"
+                name="name"
+                placeholder={t("contact_name_input")}
+              />
             </div>
             <div className="sender-info">
               <div className="label">
@@ -91,7 +79,7 @@ function Contact() {
               ></textarea>
             </div>
 
-            <button>
+            <button className="contact-btn">
               <AiOutlineSend className="send-icon" />
               {t("send_message")}
             </button>

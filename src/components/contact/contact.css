@@ -1,24 +1,18 @@
 .contact-container {
-  margin-top: 5%;
   height: 100vh;
   margin-top: 50%;
   background-color: black;
 }
 
 .contact-title {
-  padding-top: 2em;
+  padding-top: 1em;
   color: rgb(177, 158, 255);
 }
 .form {
-  margin: 5% 5%;
+  margin: 10% 12%;
   padding: 1em;
   background-color: aliceblue;
   border-radius: 1em;
-}
-.name-phone {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2em;
 }
 .label {
   display: flex;
@@ -30,7 +24,7 @@
   font-size: clamp(10px, 5vw, 15px);
   color: rgb(89, 26, 149);
   font-weight: 500;
-  padding: 0.1em;
+  letter-spacing: 1px;
 }
 .label > input {
   width: 100%;
@@ -43,6 +37,10 @@
   letter-spacing: 1px;
   line-height: 2em;
 }
+.label input::placeholder,
+.label textarea::placeholder {
+  font-size: clamp(10px, 3vw, 14px);
+}
 textarea {
   border-radius: 0.7em;
   height: 150px;
@@ -54,7 +52,7 @@ form > div {
   padding: 1em;
 }
 
-button {
+.contact-btn {
   width: 95%;
   padding: 0.5em;
   text-transform: uppercase;
@@ -74,7 +72,7 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+.contact-btn:hover {
   background: rgb(131, 58, 180);
   background: linear-gradient(
     90deg,
@@ -92,6 +90,15 @@ button:hover {
   vertical-align: text-bottom;
   margin-right: 10px;
 }
+@media (min-width: 360px) {
+  .contact-title {
+    padding-top: 5%;
+  }
+  .form {
+    margin-top: 5%;
+  }
+}
+
 @media (min-width: 640px) {
   .contact-container {
     margin-top: 15%;
@@ -103,6 +110,6 @@ button:hover {
   .form {
     border: 1px solid grey;
     width: 60vw;
-    margin: 0 20%;
+    margin: 0 20vw;
   }
 }

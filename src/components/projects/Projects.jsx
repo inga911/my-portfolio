@@ -39,14 +39,14 @@ function Projects() {
   const { t } = useTranslation();
   return (
     <div id="projects" className="project-container">
-      <h2>{t("project_container")}</h2>
+      <h2 className="container-title">{t("project_container")}</h2>
       <p>{t("project_para")}</p>
       <div className="project-card">
         <div className="project-item">
           <img src={mainprojectImg} alt="/" />
           <div className="project-info">
-            <h4>Simple ToDo App</h4>
-            <p>PHP | Laravel</p>
+            <h4 className="project-name">Simple ToDo App</h4>
+            <p className="project-lng">PHP | Laravel</p>
             <a
               href="https://inga911.github.io/to-do/"
               className="project-link"
@@ -54,7 +54,7 @@ function Projects() {
               rel="noopener noreferrer"
             >
               {t("see_project")}
-            </a>
+            </a>{" "}
             <a
               href="https://github.com/inga911/to-do/tree/main/todo"
               className="project-link"
@@ -68,8 +68,8 @@ function Projects() {
         <div className="project-item">
           <img src={bank} alt="/" />
           <div className="project-info">
-            <h4>First bank</h4>
-            <p>PHP | Laravel</p>
+            <h4 className="project-name">First bank</h4>
+            <p className="project-lng">PHP | Laravel</p>
             {/* <a
               href="#"
               className="project-link"
@@ -91,8 +91,8 @@ function Projects() {
         <div className="project-item">
           <img src={scroll} alt="/" />
           <div className="project-info">
-            <h4>Infinite Scroll</h4>
-            <p>API | JS</p>
+            <h4 className="project-name">Infinite Scroll</h4>
+            <p className="project-lng">API | JS</p>
             <a
               href="https://inga911.github.io/infinite-scroll/"
               className="project-link"
@@ -100,7 +100,7 @@ function Projects() {
               rel="noopener noreferrer"
             >
               {t("see_project")}
-            </a>
+            </a>{" "}
             <a
               href="https://github.com/inga911/infinite-scroll"
               className="project-link"
@@ -114,8 +114,8 @@ function Projects() {
         <div className="project-item">
           <img src={quote} alt="/" />
           <div className="project-info">
-            <h4>Quote Generator with JS</h4>
-            <p>JS</p>
+            <h4 className="project-name">Quote Generator</h4>
+            <p className="project-lng">JS</p>
             <a
               href="https://inga911.github.io/quote-generator/"
               className="project-link"
@@ -123,7 +123,7 @@ function Projects() {
               rel="noopener noreferrer"
             >
               {t("see_project")}
-            </a>
+            </a>{" "}
             <a
               href="https://github.com/inga911/quote-generator"
               className="project-link"
@@ -137,8 +137,8 @@ function Projects() {
         <div className="project-item">
           <img src={shop} alt="/" />
           <div className="project-info">
-            <h4>Shop store</h4>
-            <p>PHP | LAravel</p>
+            <h4 className="project-name">Shop store</h4>
+            <p className="project-lng">PHP | Laravel</p>
             {/* <a href="#" className="project-link">
               See project
             </a> */}
@@ -155,8 +155,8 @@ function Projects() {
         <div className="project-item">
           <img src={calculator} alt="/" />
           <div className="project-info">
-            <h4>Calculator</h4>
-            <p>JavaScript (+HTML, +CSS)</p>
+            <h4 className="project-name">Calculator</h4>
+            <p className="project-lng">JavaScript (+HTML, +CSS)</p>
             <a
               href="https://inga911.github.io/calculator/"
               className="project-link"
@@ -164,7 +164,7 @@ function Projects() {
               rel="noopener noreferrer"
             >
               {t("see_project")}
-            </a>
+            </a>{" "}
             <a
               href="https://github.com/inga911/calculator"
               className="project-link"

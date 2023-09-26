@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./hero.css";
 import { TypeAnimation } from "react-type-animation";
 import heroImg from "../images/inga-img4.jpg";
