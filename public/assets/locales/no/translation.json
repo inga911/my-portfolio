@@ -2,7 +2,7 @@
     "lang_choose": "Språk",
     "my_name": "Jeg heter Inga Banaityte",
     "about": "Kort om meg",
-    "about_txt": "Hei, og velkommen til siden min. Mitt navn er Inga. La meg introdusere meg selv og dele min historie. Jeg er en avslappet og genuinely hyggelig person å være rundt. Jeg har en lang historie med å spille lagsport og være i et lagmiljø, så jeg føler meg på mitt beste når jeg er en del av et lag, tåler utfordringer og overvinner hindringer. Dette fikk meg til å føle meg feilplassert i mine tidligere jobbstillinger, og så høsten 2022 innså jeg at jeg ønsket å endre karriereretning. Etter mye forskning på nettet og sjel-søking, bestemte jeg meg for å prøve meg i IT-bransjen. Etter at beslutningen var tatt, dykket jeg rett inn i dette store feltet. Etter å ha veid alle fordelene og mulighetene, startet jeg min reise med Full-Stack | PHP-kurs. Etter lange 12-timers dager følte jeg meg sliten, men samtidig energisk. Energetisk av arbeidet jeg la ned og fremgangen jeg oppnådde. Gitt all min tidligere arbeidserfaring visste jeg at IT var stedet hvor jeg hørte hjemme. Jeg fant endelig min karriere. Så, etter erkjennelsen og etter en intens seks måneders innsats, trådte jeg frem som en juniørutvikler. Nå er jeg glad for å si at jeg har erfaring med PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, PhpMyAdmin og Bootstrap. Jeg ser frem til muligheten til å anvende min opparbeidede kunnskap for å lage profesjonelle nettsider og apper og tilføre verdi til ditt team og organisasjon.",
+    "about_txt": "Hei, og velkommen til siden min. Mitt navn er Inga. La meg introdusere meg selv og dele min historie. Jeg er en avslappet og genuinely hyggelig person å være rundt. Jeg har en lang historie med å spille lagsport og være i et lagmiljø, så jeg føler meg på mitt beste når jeg er en del av et lag, tåler utfordringer og overvinner hindringer. Dette fikk meg til å føle meg feilplassert i mine tidligere jobbstillinger, og så høsten 2022 innså jeg at jeg ønsket å endre karriereretning. Etter mye forskning på nettet og sjel-søking, bestemte jeg meg for å prøve meg i IT-bransjen. Etter at beslutningen var tatt, dykket jeg rett inn i dette store feltet. Etter å ha veid alle fordelene og mulighetene, startet jeg min reise med Full-Stack | PHP-kurs. Etter lange 12-timers dager følte jeg meg sliten, men samtidig energisk. Energetisk av arbeidet jeg la ned og fremgangen jeg oppnådde. Gitt all min tidligere arbeidserfaring visste jeg at IT var stedet hvor jeg hørte hjemme. Jeg fant endelig min karriere. Så, etter erkjennelsen og etter en intens seks måneders innsats, trådte jeg frem som en juniørutvikler. Nå er jeg glad for å si at jeg har erfaring med PHP, Laravel, React.js, JavaScript, HTML, CSS, SASS, MySQL, VSCode, Node.js, PhpMyAdmin og Bootstrap. Jeg ser frem til muligheten til å anvende min opparbeidede kunnskap for å lage profesjonelle nettsider og apper og tilføre verdi til ditt team og organisasjon.",
     "work_experience": "Arbeidserfaring",
     "job_items": [
         {
@@ -15,7 +15,7 @@
         },
         {
             "startYear": "2017 / 09",
-            "endYear": "2018 / 06",
+            "endYear": "2019 / 01",
             "title": "Tannpleier/ Tannlegeassistent",
             "company": "PROMEDICA familieklinikk",
             "duration": "11 måneder",

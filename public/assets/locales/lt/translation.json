@@ -2,7 +2,7 @@
     "lang_choose": "Kalba",
     "my_name": "Aš - Inga Banaitytė",
     "about": "Trumpai apie mane",
-    "about_txt": "Sveiki atvykę į mano puslapį. Mano vardas Inga. Leiskite man prisistatyti ir pasidalinti savo istorija. Esu lengvai bendraujantis ir malonus žmogus. Turiu ilgą komandinio sporto ir buvimo komandinėje aplinkoje istoriją, todėl geriausiai jaučiuosi būdama komandos dalimi, įveikdama iššūkius ir kliūtis. Dėl to ankstesnėje darbo pozicijoje jaučiausi ne savo vietoje ir 2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Po daugybės tyrinėjimų internete ir sielos ieškojimų nusprendžiau išbandyti save IT srityje. Priėmus šį sprendimą, pasinėriau į šią plačią sritį. Pasvėręs visus privalumus ir galimybes, pradėjau savo kelionę su Full-Stack | PHP kursais. Po ilgų 12 valandų darbo dienų jaučiausi pavargus, bet kartu ir energinga. Energinga nuo įdėto darbo ir padarytos pažangos. Atsižvelgdamas į visą savo ankstesnę darbo patirtį, supratau, kad IT - mano vieta. Pagaliau radau savo karjeros kelią. Taigi po intensyvių šešių mėnesių kursų tapau jaunesniąja programuotoja. Dabar džiaugiuosi galėdama pasakyti, kad turiu patirties su PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, PhpMyAdmin ir Bootstrap. Su nekantrumu laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles bei pridėti vertę Jūsų komandai ir organizacijai.",
+    "about_txt": "Sveiki atvykę į mano puslapį. Mano vardas Inga. Leiskite man prisistatyti ir pasidalinti savo istorija. Esu lengvai bendraujantis ir malonus žmogus. Turiu ilgą komandinio sporto ir buvimo komandinėje aplinkoje patirtį, todėl geriausiai jaučiuosi būdama komandos dalimi, įveikdama iššūkius ir kliūtis. Dėl to ankstesnėje darbo pozicijoje jaučiausi ne savo vietoje ir 2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Po daugybės tyrinėjimų internete ir savęs ieškojimų nusprendžiau išbandyti IT sritį. Priėmus šį sprendimą, pasinėriau į šią plačią sritį. Pasvėrus visus privalumus ir galimybes, pradėjau savo kelionę su Full-Stack | PHP kursais. Po ilgų mokymosi valandų jaučiausi pavargus, bet kartu ir energinga. Energinga nuo įdėto darbo ir padarytos pažangos. Atsižvelgdama į visą savo ankstesnę darbo patirtį, supratau, kad IT - mano vieta. Jaučiuosi pagaliau radus savo karjeros kelią. Taigi po intensyvių šešių mėnesių kursų tapau jaunesniąja programuotoja. Dabar džiaugiuosi galėdama pasakyti, kad turiu patirties su PHP, Laravel, React.js, JavaScript, HTML, CSS, SASS, MySQL, VSCode, Node.js, PhpMyAdmin ir Bootstrap. Su nekantrumu laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles bei pridėti vertę Jūsų komandai ir organizacijai.",
     "work_experience": "Darbo patirtis",
     "job_items": [
         {
@@ -15,7 +15,7 @@
         },
         {
             "startYear": "2017 / 09",
-            "endYear": "2018 / 06",
+            "endYear": "2019 / 01",
             "title": "Dantų higienistė/odontologo padėjėja",
             "company": "PROMEDICA Šeimos klinika",
             "duration": "11 mėnesiai",

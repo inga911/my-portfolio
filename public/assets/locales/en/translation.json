@@ -2,7 +2,7 @@
     "lang_choose": "Language",
     "my_name": "I am Inga Banaityte",
     "about": "Briefly about me",
-    "about_txt": "Hi and welcome to my page. My name is Inga. Let me introduce myself and share my story. I am an easy-going and genuinely nice person to be around. I have a long history of playing team sports and being in a team environment, so I feel at my best when I am part of a team, enduring challenges and conquering obstacles. This made me feel out of place in my previous job positions, and so in the fall of 2022, I realized that I wanted to change my career direction. After a lot of research on the web and soul-searching, I decided to try myself in IT. After the decision was made, I dove right into this vast field. Weighing all the benefits and opportunities, I started my journey with Full-Stack | PHP courses. After long 12-hour days, I felt tired but at the same time energized. Energized from the work I was putting in and the progress I was making. Given all my previous work experiences, I knew that IT was where I belonged. I finally found my career profession. So, after the realization and after an intense six months, I emerged as a junior developer. Now I am glad to say that I have experience with the PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, PhpMyAdmin and Bootstrap. I look forward to the opportunity to apply my accumulated knowledge to create professional websites and apps and add value to your team and organization.",
+    "about_txt": "Hi and welcome to my page. My name is Inga. Let me introduce myself and share my story. I am an easy-going and genuinely nice person to be around. I have a long history of playing team sports and being in a team environment, so I feel at my best when I am part of a team, enduring challenges and conquering obstacles. This made me feel out of place in my previous job positions, and so in the fall of 2022, I realized that I wanted to change my career direction. After a lot of research on the web and soul-searching, I decided to try myself in IT. After the decision was made, I dove right into this vast field. Weighing all the benefits and opportunities, I started my journey with Full-Stack | PHP courses. After long 12-hour days, I felt tired but at the same time energized. Energized from the work I was putting in and the progress I was making. Given all my previous work experiences, I knew that IT was where I belonged. I finally found my career profession. So, after the realization and after an intense six months, I emerged as a junior developer. Now I am glad to say that I have experience with the PHP, Laravel, React.js, JavaScript, HTML, CSS, SASS, MySQL, VSCode, Node.js, PhpMyAdmin and Bootstrap. I look forward to the opportunity to apply my accumulated knowledge to create professional websites and apps and add value to your team and organization.",
     "work_experience": "Work Experience",
     "job_items": [
         {
@@ -15,7 +15,7 @@
         },
         {
             "startYear": "2017 / 09",
-            "endYear": "2018 / 06",
+            "endYear": "2019 / 01",
             "title": "Dental hygienist/ Dentist assistant",
             "company": "PROMEDICA Familly Clinic",
             "duration": "11 months",
