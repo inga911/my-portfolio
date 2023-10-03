@@ -2,7 +2,7 @@
     "lang_choose": "Språk",
     "my_name": "Jeg heter Inga Banaityte",
     "about": "Kort om meg",
-    "about_txt": "Høsten 2022 skjønte jeg at jeg ville endre karriereretningen min. Jeg var alltid interessert i teknologi, så jeg bestemte meg for å se på mulighetene innen IT. Jeg bestemte meg for å dykke inn i disse områdene. Etter å ha veid alle fordelene og risikoene, startet jeg denne veien med Back-End | PHP-kurs, som jeg viet all min fritid til. Gjennom ulike arbeidserfaringer har jeg tilegnet meg ulike ferdigheter, som å legge merke til små detaljer, noe som er nyttig når du lager nettsider/applikasjoner, kommunisere med kunder - jeg kan lytte og svare på deres behov, jobbe i et team for å oppnå felles mål og bidra effektivt til prosjektet. Jeg har erfaring med Windows-systemet, PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, Bootstrap. Jeg ser frem til muligheten til å anvende min akkumulerte kunnskap for å lage profesjonelle nettsider og applikasjoner. Jeg er fast bestemt på å stadig forbedre mine ferdigheter.",
+    "about_txt": "Hei, og velkommen til siden min. Mitt navn er Inga. La meg introdusere meg selv og dele min historie. Jeg er en avslappet og genuinely hyggelig person å være rundt. Jeg har en lang historie med å spille lagsport og være i et lagmiljø, så jeg føler meg på mitt beste når jeg er en del av et lag, tåler utfordringer og overvinner hindringer. Dette fikk meg til å føle meg feilplassert i mine tidligere jobbstillinger, og så høsten 2022 innså jeg at jeg ønsket å endre karriereretning. Etter mye forskning på nettet og sjel-søking, bestemte jeg meg for å prøve meg i IT-bransjen. Etter at beslutningen var tatt, dykket jeg rett inn i dette store feltet. Etter å ha veid alle fordelene og mulighetene, startet jeg min reise med Full-Stack | PHP-kurs. Etter lange 12-timers dager følte jeg meg sliten, men samtidig energisk. Energetisk av arbeidet jeg la ned og fremgangen jeg oppnådde. Gitt all min tidligere arbeidserfaring visste jeg at IT var stedet hvor jeg hørte hjemme. Jeg fant endelig min karriere. Så, etter erkjennelsen og etter en intens seks måneders innsats, trådte jeg frem som en juniørutvikler. Nå er jeg glad for å si at jeg har erfaring med PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, PhpMyAdmin og Bootstrap. Jeg ser frem til muligheten til å anvende min opparbeidede kunnskap for å lage profesjonelle nettsider og apper og tilføre verdi til ditt team og organisasjon.",
     "work_experience": "Arbeidserfaring",
     "job_items": [
         {
@@ -11,7 +11,7 @@
             "title": "Selger/sjåfør",
             "company": "Diplom-Is AS",
             "duration": "3 år 4 måneder",
-            "description": "‧ Vurdere salgsdata og implisere nye taktikker for å oppnå bedre resultater.\n‧ Kommunikasjon med kunder.\n‧ Oppnå felles mål i et team.\n‧ Daglig dokumentasjonsfylling.\n‧ Gjennomføring av planlagte arbeider på rutene.\n‧ Implementering av nye salgsteknikker.\n‧ Daglig helse og sikkerhetskontroller."
+            "description": "‧ Vurdering av salgsdata og implementering av nye taktikker for å oppnå bedre resultater.\n‧ Kommunikasjon med kunder.\n‧ Oppnå felles mål i et team.\n‧ Daglig dokumentasjon utfylling.\n‧ Gjennomføring av planlagte arbeider på rutene.\n‧ Daglige helse- og sikkerhetssjekker."
         },
         {
             "startYear": "2017 / 09",
@@ -19,7 +19,7 @@
             "title": "Tannpleier/ Tannlegeassistent",
             "company": "PROMEDICA familieklinikk",
             "duration": "11 måneder",
-            "description": "‧ Vurdere pasienters munnhelse og endringsdokumentasjon.\n‧ Utfør tannrens.\n‧ Demonstrere riktige pusse- og bruksteknikker.\n‧ Samarbeide med tannlegen for å lage behandlingsplaner for pasienter.\n‧ Oppdatere behandlingsplaner og pasientjournaler.\n‧ Ta tannrøntgen som nødvendig for diagnose og behandlingsplanlegging.\n‧ Sterilisering og vedlikehold av tanninstrumenter og utstyr for å sikre infeksjonskontroll.\n‧ Bestilling av tannrekvisita og vedlikehold av inventar.\n‧ Assistere tannlegen under prosedyrer.\n‧ Forsyning og lagerstyring.\n‧ Fasilitetsforberedelse for nye pasienter.\n‧ Arbeidsbelastningsplaning.\n‧ Kommunikasjon med pasienter."
+            "description": "‧ Vurdering av pasienters munnhelse og endring av dokumentasjon.\n‧ Utføre tannrensinger.\n‧ Informere pasienter om riktig tannpuss-teknikk.\n‧  Samarbeide med tannlegen for å utarbeide behandlingsplaner for pasienter.\n‧ Oppdatere behandlingsplaner og pasientjournaler.\n‧ Ta tannrøntgenbilder ved behov for diagnose og behandlingsplanlegging.\n‧  Sterilisere og vedlikeholde tanninstrumenter og utstyr for å sikre infeksjonskontroll. \n‧ Bestille tannforsyninger og opprettholde lagerbeholdning.\n‧ Assistanse til tannlegen under prosedyrer.\n‧ Forvaltning av forsyninger og lager.\n‧ Forberedelse av fasiliteter for nye pasienter.\n‧ Planlegging av arbeidsbelastning.\n‧ Kommunikasjon med pasienter."
         },
         {
             "startYear": "2016 / 04",
@@ -27,25 +27,24 @@
             "title": "Butikk selger",
             "company": "APRANGA Group",
             "duration": "1 år 4 måneder",
-            "description": "‧ Kommuniser og rådfør deg med kunder.\n‧ Demonstrer og forklar produktenes egenskaper.\n‧ Implementer salgstaktikker.\n‧ Overvåk og fyll opp varer på salgsgulvet.\n‧ Gjennomfør lagertelling for å sikre nøyaktige lagernivåer.\n‧ Løs kundeklager eller problemer.\n‧ Forbered salgsrapporter eller dokumentasjon."
+            "description": "‧ Kommunisere og konsultere med kunder.\n‧ Implementere salgstaktikker.\n‧ Overvåke og fylle opp varer på salgsgulvet. \n‧ Gjennomføre lageropptelling. \n‧ Løs kundeklager relaterer til produkter.\n‧ Forberede salgsrapporter."
         }
     ],
     "project_container": "Prosjekter",
-    "project_para": "Her kan du se noen av prosjektene jeg har laget for læring.",
+    "project_para": "Her kan du se mine læreprosjekter",
     "see_project": "Se prosjekt",
     "see_code": "Se kodekilde",
     "contact_container": "Ta kontakt meg",
     "nav_home": "Hjem",
-    "nav_resume": "Gjenoppta",
+    "nav_resume": "Kort om meg",
     "nav_work": "Arbeidserfaring",
+    "nav_skills": "Ferdigheter",
     "nav_projects": "Prosjekter",
-    "nav_contact": "Kontakt",
+    "nav_contact": "Ta kontakt meg",
     "contact_name_label": "Navn",
     "contact_name_input": "Skriv inn navnet ditt",
-    "contact_phone_label": "Telefonnummer",
-    "contact_phone_input": "Tast inn ditt telefonnummer",
     "contact_email_label": "E-post",
-    "contact_email_input": "Skriv inn din email",
+    "contact_email_input": "Skriv inn din e-post",
     "contact_subject_label": "Emne",
     "contact_subject_input": "Skriv inn emne her",
     "contact_message_label": "Meldingen",

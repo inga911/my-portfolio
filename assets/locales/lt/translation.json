@@ -1,8 +1,8 @@
 {
     "lang_choose": "Kalba",
-    "my_name": "Aš - Inga Banaityte",
+    "my_name": "Aš - Inga Banaitytė",
     "about": "Trumpai apie mane",
-    "about_txt": "2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Man visada buvo įdomios technologijos, todėl nusprendžiau pažvelgti į IT galimybes ir pasinerti į šią plačią sritį. Šį kelią pradėjau su Back-End | PHP kursais, kuriems skyriau visą savo laisvalaikį. Per įvairią darbo patirtį įgijau įvairių įgūdžių, tokių kaip dėmesys smulkmenoms, kas praverčia kuriant svetaines/programėles, bendrauti su klientais – gebu išklausyti ir tinkamai reaguoti į jų poreikius, dirbti komandoje siekti bendrų tikslų ir veiksmingai prisidėti prie projekto. Turiu patirties su Windows sistema, PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, Bootstrap. Laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles. Esu pasiryžusi nuolat tobulinti savo įgūdžius.",
+    "about_txt": "Sveiki atvykę į mano puslapį. Mano vardas Inga. Leiskite man prisistatyti ir pasidalinti savo istorija. Esu lengvai bendraujantis ir malonus žmogus. Turiu ilgą komandinio sporto ir buvimo komandinėje aplinkoje istoriją, todėl geriausiai jaučiuosi būdama komandos dalimi, įveikdama iššūkius ir kliūtis. Dėl to ankstesnėje darbo pozicijoje jaučiausi ne savo vietoje ir 2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Po daugybės tyrinėjimų internete ir sielos ieškojimų nusprendžiau išbandyti save IT srityje. Priėmus šį sprendimą, pasinėriau į šią plačią sritį. Pasvėręs visus privalumus ir galimybes, pradėjau savo kelionę su Full-Stack | PHP kursais. Po ilgų 12 valandų darbo dienų jaučiausi pavargus, bet kartu ir energinga. Energinga nuo įdėto darbo ir padarytos pažangos. Atsižvelgdamas į visą savo ankstesnę darbo patirtį, supratau, kad IT - mano vieta. Pagaliau radau savo karjeros kelią. Taigi po intensyvių šešių mėnesių kursų tapau jaunesniąja programuotoja. Dabar džiaugiuosi galėdama pasakyti, kad turiu patirties su PHP, Laravel, React.js, JavaScript, HTML, CSS/SCSS, MySQL, VSCode, Node.js, PhpMyAdmin ir Bootstrap. Su nekantrumu laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles bei pridėti vertę Jūsų komandai ir organizacijai.",
     "work_experience": "Darbo patirtis",
     "job_items": [
         {
@@ -11,7 +11,7 @@
             "title": "Pardavėjas / vairuotojas",
             "company": "Diplom-Is AS",
             "duration": "3 metai 4 mėnesiai",
-            "description": "‧ Pardavimo duomenų vertinimas ir naujų taktikos įvedimas siekiant geresnių rezultatų.\n‧ Bendravimas su klientais.\n‧ Bendrų tikslų siekimas komandoje.\n‧ Kasdienis dokumentacijos pildymas.\n‧ Suplanuotų darbų vykdymas maršrutuose.\n‧ Naujų pardavimo technikų diegimas.\n‧ Kasdieninė sveikata ir saugos patikrinimai."
+            "description": "‧ Pardavimo duomenų vertinimas ir naujų pardavimo taktikų taikymas siekiant geresnių rezultatų.\n‧ Bendravimas su klientais.\n‧ Bendrų tikslų siekimas komandoje.\n‧ Kasdienis dokumentacijos pildymas.\n‧ Suplanuotų darbų vykdymas maršrutuose.\n‧ Kasdieninės sveikatos ir saugos patikrinimas."
         },
         {
             "startYear": "2017 / 09",
@@ -19,7 +19,7 @@
             "title": "Dantų higienistė/odontologo padėjėja",
             "company": "PROMEDICA Šeimos klinika",
             "duration": "11 mėnesiai",
-            "description": "‧ Pacientų burnos sveikatos įvertinimas ir dokumentacijos pakeitimas.\n‧ Dantų valymo atlikimas.\n‧ Tinkamų valymo šepetėliu ir siūlu technikų demonstravimas.\n‧ Bendradarbiavimas su odontologu kuriant pacientų gydymo planus.\n‧ Gydymo planų ir pacientų įrašų atnaujinimas. reikalinga diagnostikai ir gydymo planavimui.\n‧ Stomatologinių instrumentų ir įrangos sterilizavimas ir priežiūra, siekiant užtikrinti infekcijų kontrolę.\n‧ Odontologijos reikmenų užsakymas ir inventoriaus tvarkymas.\n‧ Pagalba odontologui atliekant procedūras.\n‧ Tiekimo ir atsargų valdymas.\n‧ Įstaigos paruošimas naujiems pacientams.\n‧ Darbo krūvio planavimas.\n‧ Bendravimas su pacientais."
+            "description": "‧ Pacientų burnos sveikatos įvertinimas ir pasikeitimų registravimas.\n‧ Burnos higienos procedūrų atlikimas.\n‧ Paciento informavimas apie invidualią burnos hiegną.\n‧ Bendradarbiavimas su odontologu kuriant pacientų gydymo planus.\n‧ Pacientų įrašų ir gydymo planų atnaujinimas. \n‧ Stomatologinių instrumentų ir įrangos sterilizavimas ir priežiūra, siekiant užtikrinti infekcijų kontrolę.\n‧ Odontologijos reikmenų užsakymas ir inventoriaus tvarkymas.\n‧ Asistavimas odontologui atliekant procedūras.\n‧ Kabineto paruošimas naujiems pacientams.\n‧ Darbo krūvio planavimas.\n‧ Bendravimas su pacientais."
         },
         {
             "startYear": "2016 / 04",
@@ -27,28 +27,27 @@
             "title": "Pardavėja",
             "company": "APRANGA Group",
             "duration": "1 metai 4 mėnesiai",
-            "description": "‧ Bendrauti ir konsultuotis su klientais.\n‧ Parodykite ir paaiškinkite produktų savybes.\n‧ Įdiekite pardavimo taktiką.\n‧ Stebėkite ir papildykite prekes pardavimo aikštelėje.\n‧ Atlikite atsargų skaičiavimą, kad užtikrintumėte tikslų atsargų lygį.\n‧ Spręskite klientų skundus ar problemas.\n‧ Rengkite pardavimo ataskaitas arba dokumentus."
+            "description": "‧ Bendrauti ir konsultuotis klientus. \n‧ Taikyti pardavimo taktikas.\n‧ Stebėti bei papildyti prekes pardavimo salėje.\n‧ Atlikti inventorizacija.\n‧ Spręskite klientų skundus ar iškilusias problemas susijusias su parduodama preke.\n‧ Pildyti pardavimo ataskaitas."
         }
     ],
     "project_container": "Projektai",
-    "project_para": "Čia galite pamatyti kai kuriuos projektus, kuriuos sukūriau mokymuisi.",
+    "project_para": "Čia galite pamatyti projektus, kurtus mokymosi tikslams.",
     "see_project": "Žiūrėti projektą",
     "see_code": "Žiūrėti kodo šaltinį",
-    "contact_container": "Susisiek su manimi",
+    "contact_container": "Susisiekite su manimi",
     "nav_home": "Pagrindinis",
     "nav_resume": "Trumpai apie mane",
     "nav_work": "Darbo patirtis",
+    "nav_skills": "Įgūdžiai",
     "nav_projects": "Projektai",
     "nav_contact": "Susisiekite su manimi",
     "contact_name_label": "Vardas",
     "contact_name_input": "Įveskite savo vardą",
-    "contact_phone_label": "Telefono numeris",
-    "contact_phone_input": "Įveskite savo telefono numerį",
     "contact_email_label": "El. paštas",
     "contact_email_input": "Įrašykite savo el. paštą",
     "contact_subject_label": "Tema",
-    "contact_subject_input": "Įveskite temą čia",
+    "contact_subject_input": "Įveskite temą",
     "contact_message_label": "Pranešimas",
-    "contact_message_input": "Įveskite savo žinutę čia",
+    "contact_message_input": "Jūsų žinutė",
     "send_message": "Siųsti pranešimą"
 }
