@@ -6,6 +6,7 @@ import {
   AiOutlineProject,
   AiOutlineMail,
   AiOutlineClose,
+  AiOutlineTool,
 } from "react-icons/ai";
 import { BsPerson } from "react-icons/bs";
 import { GrProjects } from "react-icons/gr";
@@ -67,6 +68,10 @@ function SideNav() {
               <GrProjects className="nav-icon" />
               <span>{t("nav_work")}</span>
             </a>
+            <a onClick={handleNav} href="#skills" className="nav-link">
+              <AiOutlineTool className="nav-icon" />
+              <span>{t("nav_skills")}</span>
+            </a>
             <a onClick={handleNav} href="#projects" className="nav-link">
               <AiOutlineProject className="nav-icon" />
               <span>{t("nav_projects")}</span>
@@ -89,6 +94,9 @@ function SideNav() {
             </a>
             <a href="#jobs" className="small-nav-link">
               <GrProjects className="nav-icon" />
+            </a>
+            <a href="#skills" className="small-nav-link">
+              <AiOutlineTool className="nav-icon" />
             </a>
             <a href="#projects" className="small-nav-link">
               <AiOutlineProject className="nav-icon" />
