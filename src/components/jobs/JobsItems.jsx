@@ -16,7 +16,7 @@ function JobsItems({
         <li className="jobs-items-list">
           <div className="circle" />
           <p className="each-job">
-            <span className="year">{startYear}</span>
+            <span className="year">{startYear}</span> &#8212;
             <span className="year ">{endYear}</span>
             <span className="title">{title}</span>
             <span className="company">{company}</span>

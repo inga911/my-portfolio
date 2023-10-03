@@ -1,7 +1,7 @@
 @media (min-width: 360px) {
   .about-me-container {
     display: block;
-    height: 100vh;
+    height: auto;
     color: rgb(131, 0, 138);
     background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
   }
@@ -24,8 +24,9 @@
   }
   .about-text {
     line-height: 1.5em;
-    font-size: clamp(13px, 2vw, 16px);
+    font-size: clamp(13px, 2vw, 15px);
     margin: 0 1em;
+    padding-bottom: 10%;
   }
 }
 
@@ -78,11 +79,8 @@
     object-fit: contain;
   }
   .text-column {
-    height: 50vh;
     position: relative;
-    margin-top: 10%;
-    margin-left: 0px;
-    margin-right: 5%;
+    margin: 10% 5% 0 0;
     padding: 10px;
   }
 }

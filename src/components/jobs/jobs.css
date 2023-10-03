@@ -36,6 +36,7 @@
   flex-direction: row;
   align-items: center;
   font-size: 14px;
+  color: darkblue;
 }
 .year {
   color: white;
