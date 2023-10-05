@@ -16,14 +16,7 @@
   box-shadow: 0 5px 5px lightgray;
   border-radius: 1.5em;
   padding: 1em;
-  background: rgb(131, 58, 180);
-  background: linear-gradient(
-    90deg,
-    rgba(131, 58, 180, 1) 0%,
-    rgba(29, 253, 205, 0.18539915966386555) 0%,
-    rgba(31, 249, 205, 0.31985294117647056) 0%,
-    rgba(131, 58, 180, 0.272233893557423) 100%
-  );
+  background-color: rgb(211, 234, 255);
 }
 .project-item:hover {
   background: rgb(131, 58, 180);
@@ -34,6 +27,8 @@
     rgba(131, 58, 180, 1) 100%
   );
   opacity: 0.75;
+  transition: ease-out 0.5s;
+  scale: 1.02;
 }
 img {
   width: 70%;
