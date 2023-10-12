@@ -2,8 +2,8 @@ import React from "react";
 import "./projects.css";
 import mainprojectImg from "../images/main-project.png";
 import quote from "../images/quote.png";
-import scroll from "../images/scroll.png";
-import bank from "../images/bank-create.png";
+import scroll from "../images/infinite_scroll.png";
+// import bank from "../images/bank-create.png";
 import shop from "../images/shop-store.png";
 import calculator from "../images/calculator.png";
 import i18n from "i18next";
@@ -65,19 +65,19 @@ function Projects() {
             </a>
           </div>
         </div>
-        <div className="project-item">
+        {/* <div className="project-item">
           <img src={bank} alt="/" />
           <div className="project-info">
             <h4 className="project-name">First bank</h4>
             <p className="project-lng">PHP | Laravel</p>
-            {/* <a
+            <a
               href="#"
               className="project-link"
               target="_blank"
               rel="noopener noreferrer"
             >
               See project
-            </a> */}
+            </a>
             <a
               href="https://github.com/inga911/php-bank"
               className="project-link"
@@ -87,7 +87,7 @@ function Projects() {
               {t("see_code")}
             </a>
           </div>
-        </div>
+        </div> */}
         <div className="project-item">
           <img src={scroll} alt="/" />
           <div className="project-info">
