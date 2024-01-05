@@ -6,6 +6,7 @@ import scroll from "../images/infinite_scroll.png";
 // import bank from "../images/bank-create.png";
 import shop from "../images/shop-store.png";
 import calculator from "../images/calculator.png";
+import hotel from "../images/hotel2.png";
 import i18n from "i18next";
 import { useTranslation, initReactI18next } from "react-i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
@@ -115,7 +116,7 @@ function Projects() {
           <img src={quote} alt="/" />
           <div className="project-info">
             <h4 className="project-name">Quote Generator</h4>
-            <p className="project-lng">JS</p>
+            <p className="project-lng">JS (+CSS)</p>
             <a
               href="https://inga911.github.io/quote-generator/"
               className="project-link"
@@ -156,7 +157,7 @@ function Projects() {
           <img src={calculator} alt="/" />
           <div className="project-info">
             <h4 className="project-name">Calculator</h4>
-            <p className="project-lng">JavaScript (+HTML, +CSS)</p>
+            <p className="project-lng">JavaScript, HTML, CSS</p>
             <a
               href="https://inga911.github.io/calculator/"
               className="project-link"
@@ -167,6 +168,29 @@ function Projects() {
             </a>{" "}
             <a
               href="https://github.com/inga911/calculator"
+              className="project-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_code")}
+            </a>
+          </div>
+        </div>
+        <div className="project-item">
+          <img src={hotel} alt="/" />
+          <div className="project-info">
+            <h4 className="project-name">Hotel booking</h4>
+            <p className="project-lng">PHP | Laravel, Javascript, node.js</p>
+            <a
+              href="https://bookroom.website/"
+              className="project-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_project")}
+            </a>{" "}
+            <a
+              href="https://github.com/inga911/hotel-booking/tree/main/hotel"
               className="project-link"
               target="_blank"
               rel="noopener noreferrer"
