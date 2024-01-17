@@ -54,11 +54,10 @@
     }
 
     &__name {
-        align-self: center;
+        text-align: center;
         text-transform: uppercase;
         font-size: $font-size-large;
         padding: 1rem;
-
         color: $text-color-main;
     }
 
