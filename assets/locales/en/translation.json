@@ -2,7 +2,7 @@
     "lang_choose": "Language",
     "my_name": "I am Inga Banaityte",
     "about": "Briefly about me",
-    "about_txt": "Hi and welcome to my page. My name is Inga. Let me introduce myself and share my story. I am an easy-going and genuinely nice person to be around. I have a long history of playing team sports and being in a team environment, so I feel at my best when I am part of a team, enduring challenges and conquering obstacles. This made me feel out of place in my previous job positions, and so in the fall of 2022, I realized that I wanted to change my career direction. After a lot of research on the web and soul-searching, I decided to try myself in IT. After the decision was made, I dove right into this vast field. Weighing all the benefits and opportunities, I started my journey with Full-Stack | PHP courses. After long 12-hour days, I felt tired but at the same time energized. Energized from the work I was putting in and the progress I was making. Given all my previous work experiences, I knew that IT was where I belonged. I finally found my career profession. So, after the realization and after an intense six months, I emerged as a junior developer. Now I am glad to say that I have experience with the PHP, Laravel, React.js, JavaScript, HTML, CSS, SASS, MySQL, VSCode, Node.js, PhpMyAdmin and Bootstrap. I look forward to the opportunity to apply my accumulated knowledge to create professional websites and apps and add value to your team and organization.",
+    "about_txt": "Welcome to my page. I am Inga, easy-going, kind and hard-working person. I have a long experience in team sports and being in a team environment, so I feel good being part of a team, overcoming challenges and obstacles, but I am also able to work independently. Realizing that I wanted to change my career direction, I started this journey with Full-Stack | PHP courses. After long hours of study, I felt tired, but at the same time energetic. Energized by the work put in and the progress made. Considering all my previous work experience, I realized that IT is my place. I feel like I have finally found my career path. I am constantly improving my knowledge and currently have experience with PHP, Laravel, React.js, JavaScript, HTML, CSS, SCSS, MySQL, Node.js, PhpMyAdmin, Bootstrap. I look forward to the opportunity to apply the accumulated knowledge in creating professional websites and apps and add value to your team and organization.",
     "work_experience": "Work Experience",
     "job_items": [
         {
@@ -42,12 +42,12 @@
     "nav_projects": "Projects",
     "nav_contact": "Contact",
     "contact_name_label": "Name",
-    "contact_name_input": "Enter your name",
+    "contact_name_input": "Name",
     "contact_email_label": "Email",
-    "contact_email_input": "Enter your e-mail",
+    "contact_email_input": "Email",
     "contact_subject_label": "Subject",
-    "contact_subject_input": "Type subject here",
+    "contact_subject_input": "Subject",
     "contact_message_label": "Message",
-    "contact_message_input": "Type your message here",
+    "contact_message_input": "Message",
     "send_message": "Send message"
 }

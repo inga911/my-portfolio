@@ -2,7 +2,7 @@
     "lang_choose": "Kalba",
     "my_name": "Aš - Inga Banaitytė",
     "about": "Trumpai apie mane",
-    "about_txt": "Sveiki atvykę į mano puslapį. Mano vardas Inga. Leiskite man prisistatyti ir pasidalinti savo istorija. Esu lengvai bendraujantis ir malonus žmogus. Turiu ilgą komandinio sporto ir buvimo komandinėje aplinkoje patirtį, todėl geriausiai jaučiuosi būdama komandos dalimi, įveikdama iššūkius ir kliūtis. Dėl to ankstesnėje darbo pozicijoje jaučiausi ne savo vietoje ir 2022 metų rudenį supratau, kad noriu pakeisti karjeros kryptį. Po daugybės tyrinėjimų internete ir savęs ieškojimų nusprendžiau išbandyti IT sritį. Priėmus šį sprendimą, pasinėriau į šią plačią sritį. Pasvėrus visus privalumus ir galimybes, pradėjau savo kelionę su Full-Stack | PHP kursais. Po ilgų mokymosi valandų jaučiausi pavargus, bet kartu ir energinga. Energinga nuo įdėto darbo ir padarytos pažangos. Atsižvelgdama į visą savo ankstesnę darbo patirtį, supratau, kad IT - mano vieta. Jaučiuosi pagaliau radus savo karjeros kelią. Taigi po intensyvių šešių mėnesių kursų tapau jaunesniąja programuotoja. Dabar džiaugiuosi galėdama pasakyti, kad turiu patirties su PHP, Laravel, React.js, JavaScript, HTML, CSS, SASS, MySQL, VSCode, Node.js, PhpMyAdmin ir Bootstrap. Su nekantrumu laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles bei pridėti vertę Jūsų komandai ir organizacijai.",
+    "about_txt": "Sveiki atvykę į mano puslapį. Aš - Inga, lengvai bendraujantis, malonus ir darbštus žmogus. Turiu ilgą komandinio sporto ir buvimo komandinėje aplinkoje patirtį, todėl gerai jaučiuosi būdama komandos dalimi, įveikiant iššūkius ir kliūtis, bet gebu dirbti ir savarankiškai. Supratusi, kad noriu pakeisti savo karjeros kryptį, šią kelionę pradėjau su Full-Stack | PHP kursais.Po ilgų mokymosi valandų jaučiausi pavargus, bet kartu ir energinga. Energinga nuo įdėto darbo ir padarytos pažangos. Atsižvelgdama į visą savo ankstesnę darbo patirtį, supratau, kad IT - mano vieta. Jaučiuosi pagaliau radus savo karjeros kelią. Nuolat vis tobulinu žinias ir šiuo metu turiu patirties su PHP, Laravel, React.js, JavaScript, HTML, CSS, SCSS, MySQL, Node.js, PhpMyAdmin, Bootstrap. Su nekantrumu laukiu galimybės pritaikyti sukauptas žinias kuriant profesionalias svetaines ir programėles bei pridėti vertę Jūsų komandai ir organizacijai.",
     "work_experience": "Darbo patirtis",
     "job_items": [
         {
@@ -42,12 +42,12 @@
     "nav_projects": "Projektai",
     "nav_contact": "Susisiekite su manimi",
     "contact_name_label": "Vardas",
-    "contact_name_input": "Įveskite savo vardą",
+    "contact_name_input": "Vardas",
     "contact_email_label": "El. paštas",
-    "contact_email_input": "Įrašykite savo el. paštą",
+    "contact_email_input": "El. paštas",
     "contact_subject_label": "Tema",
-    "contact_subject_input": "Įveskite temą",
-    "contact_message_label": "Pranešimas",
+    "contact_subject_input": "Tema",
+    "contact_message_label": "Jūsų žinutė",
     "contact_message_input": "Jūsų žinutė",
     "send_message": "Siųsti pranešimą"
 }
