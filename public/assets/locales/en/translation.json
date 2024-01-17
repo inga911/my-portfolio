@@ -42,12 +42,12 @@
     "nav_projects": "Projects",
     "nav_contact": "Contact",
     "contact_name_label": "Name",
-    "contact_name_input": "Enter your name",
+    "contact_name_input": "Name",
     "contact_email_label": "Email",
-    "contact_email_input": "Enter your e-mail",
+    "contact_email_input": "Email",
     "contact_subject_label": "Subject",
-    "contact_subject_input": "Type subject here",
+    "contact_subject_input": "Subject",
     "contact_message_label": "Message",
-    "contact_message_input": "Type your message here",
+    "contact_message_input": "Message",
     "send_message": "Send message"
 }

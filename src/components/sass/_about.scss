@@ -1,0 +1,64 @@
+.about {
+    grid-column: sidebar-start / full-end;
+    // grid-row: 2 / 3;
+    text-align: center;
+    height: 100vh;
+    background: $bg-color-grey-light-1;
+    height: fit-content;
+    padding: 5rem;
+
+
+    &__card {
+        display: flex;
+        background-color: rgb(238 204 255 / 17%);
+        justify-content: space-between;
+        gap: 3rem;
+        margin: 8rem 0;
+        padding: 3rem 3rem;
+
+        @media only screen and (max-width:$bp-medium) {
+            display: grid;
+        }
+    }
+
+    &__img {
+        width: 30%;
+        height: auto;
+        align-self: center;
+        border-radius: 5px;
+
+        @media only screen and (max-width:$bp-large) {
+            justify-self: center;
+            width: 40%;
+        }
+
+        @media only screen and (max-width:$bp-smaller) {
+            width: 50%;
+        }
+
+        @media only screen and (max-width:$bp-smallest) {
+            width: 70%;
+        }
+    }
+
+    &__text {
+        width: 70%;
+        justify-self: center;
+        align-self: center;
+        column-count: 2;
+        column-gap: 4rem;
+        column-rule: 1px solid lightgray;
+        hyphens: auto;
+        font-size: $font-size-large;
+        text-align: justify;
+
+
+        @media only screen and (max-width:$bp-large) {
+            width: 90%;
+        }
+
+        @media only screen and (max-width:$bp-small) {
+            column-count: 1;
+        }
+    }
+}

@@ -42,12 +42,12 @@
     "nav_projects": "Prosjekter",
     "nav_contact": "Ta kontakt meg",
     "contact_name_label": "Navn",
-    "contact_name_input": "Skriv inn navnet ditt",
+    "contact_name_input": "Navn",
     "contact_email_label": "E-post",
-    "contact_email_input": "Skriv inn din e-post",
+    "contact_email_input": "E-post",
     "contact_subject_label": "Emne",
-    "contact_subject_input": "Skriv inn emne her",
+    "contact_subject_input": "Emne",
     "contact_message_label": "Meldingen",
-    "contact_message_input": "Skriv meldingen din her",
+    "contact_message_input": "Meldingen",
     "send_message": "Send meldingen"
 }

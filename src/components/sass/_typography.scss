@@ -1,0 +1,20 @@
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    color: $text-color-main;
+    margin-bottom: 3rem;
+    letter-spacing: 3px;
+    line-height: 1;
+    font-size: $font-size-huge;
+}
+
+.main-paragraph {
+    text-align: center;
+    padding: 2rem;
+    font-size: $font-size-large;
+    letter-spacing: 1px;
+}
+
+p {
+    color: $text-color-paragraph;
+}

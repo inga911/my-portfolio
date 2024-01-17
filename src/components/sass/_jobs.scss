@@ -1,0 +1,50 @@
+.jobs-container {
+    display: block;
+    grid-column: sidebar-start / full-end;
+    // grid-row: 5 / 6;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background: $bg-color-grey-light-2;
+    height: fit-content;
+    padding: 8rem 0;
+
+    .jobs {
+        width: 80%;
+        display: grid;
+        list-style: none;
+        font-size: $font-size-large;
+        margin-top: 5rem;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        text-align: justify;
+
+        &__list {
+            &:not(:last-of-type) {
+                padding-bottom: 2rem;
+            }
+
+            &--job {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 1em;
+                flex-direction: row;
+                align-items: center;
+                align-items: baseline;
+                font-size: $font-size-large;
+
+                &-title {
+                    color: $text-color-main;
+                    font-weight: 600;
+                }
+
+                .duration {
+                    color: $text-color-paragraph;
+                }
+
+                .start,
+                .end {
+                    font-weight: 500;
+                }
+            }
+        }
+    }
+}

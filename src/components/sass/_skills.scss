@@ -1,0 +1,71 @@
+.skills {
+    display: block;
+    grid-column: sidebar-start / full-end;
+    // grid-row: 4 / 5;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    background-color: $bg-color-grey-light-1;
+    padding: 7rem 0;
+
+    @media only screen and (max-width:$bp-large) {
+        padding: 1rem 0;
+    }
+
+    &::before,
+    &::after {
+        position: absolute;
+        top: 0;
+        width: 350px;
+        height: 100%;
+        content: '';
+        z-index: 2;
+
+        @media only screen and (max-width:$bp-large) {
+            width: 100px;
+        }
+    }
+
+    &::before {
+        left: 0;
+        background-image: linear-gradient(to left, rgba(#fff, 0), rgba(#fff, 50%), rgba(rgb(255, 255, 255), 100%));
+
+    }
+
+    &::after {
+        right: 0;
+        background-image: linear-gradient(to right, rgba(#fff, 0), rgba(#fff, 50%), rgba(rgb(255, 255, 255), 100%));
+
+    }
+
+    &:hover .skills__logo {
+        animation-play-state: paused !important;
+    }
+
+    &__logo {
+        animation: 28s slide infinite linear;
+        display: inline-block;
+        padding: 3rem;
+
+        &--img {
+            align-self: center;
+            justify-self: center;
+            height: 8rem;
+            margin: 0 2.5rem;
+
+            @media only screen and (max-width:$bp-large) {
+                height: 5rem;
+            }
+        }
+    }
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}

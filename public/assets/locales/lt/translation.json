@@ -42,12 +42,12 @@
     "nav_projects": "Projektai",
     "nav_contact": "Susisiekite su manimi",
     "contact_name_label": "Vardas",
-    "contact_name_input": "Įveskite savo vardą",
+    "contact_name_input": "Vardas",
     "contact_email_label": "El. paštas",
-    "contact_email_input": "Įrašykite savo el. paštą",
+    "contact_email_input": "El. paštas",
     "contact_subject_label": "Tema",
-    "contact_subject_input": "Įveskite temą",
-    "contact_message_label": "Pranešimas",
+    "contact_subject_input": "Tema",
+    "contact_message_label": "Jūsų žinutė",
     "contact_message_input": "Jūsų žinutė",
     "send_message": "Siųsti pranešimą"
 }

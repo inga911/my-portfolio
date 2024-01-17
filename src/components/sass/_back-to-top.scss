@@ -1,0 +1,19 @@
+.to-top {
+    text-decoration: none;
+    position: fixed;
+    bottom: 1.8em;
+    right: 1.8em;
+    align-self: center;
+    cursor: pointer;
+    background-color: $bg-color-light-purple-clear;
+    padding: 0.2em 0.55em 0.4em;
+    color: $text-color-paragraph;
+    border-radius: 100px;
+    font-size: $font-size-huge;
+    z-index: 90;
+}
+
+.to-top:hover {
+    background-color: $bg-color-light-purple;
+    color: $text-color-main;
+}
