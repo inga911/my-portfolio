@@ -149,7 +149,7 @@ function Projects() {
           </div>
         </div>
 
-        <div className="card">
+        {/* <div className="card">
           <img className="img" src={hotel} alt="/" />
           <div className="card__name">
             Hotel booking website | PHP + Laravel
@@ -172,7 +172,7 @@ function Projects() {
               {t("see_code")}
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
 
       {/* More projects */}
