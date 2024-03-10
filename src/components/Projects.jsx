@@ -158,6 +158,14 @@ function Projects() {
           <div className="card__links">
             <a
               href="https://inga911.github.io/random-color/"
+              className="link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_project")}
+            </a>
+            <a
+              href="https://inga911.github.io/random-color/"
               className="link single-link"
               target="_blank"
               rel="noopener noreferrer"
