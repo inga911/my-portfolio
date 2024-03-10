@@ -39,6 +39,7 @@
     "nav_resume": "Trumpai apie mane",
     "nav_work": "Darbo patirtis",
     "nav_skills": "Įgūdžiai",
+    "nav_education": "Išsilavinimas",
     "nav_projects": "Projektai",
     "nav_contact": "Susisiekite su manimi",
     "contact_name_label": "Vardas",
@@ -49,5 +50,39 @@
     "contact_subject_input": "Tema",
     "contact_message_label": "Jūsų žinutė",
     "contact_message_input": "Jūsų žinutė",
-    "send_message": "Siųsti pranešimą"
+    "send_message": "Siųsti pranešimą",
+    "education": "Išsilavinimas",
+    "education_items": [
+        {
+            "start": "2024 / 02",
+            "end": "dabar",
+            "title": "Jaunesniojo Front-end TypeScript programuotojas",
+            "school": "Code Academy",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "start": "2022 / 12",
+            "end": "2023 / 05",
+            "title": "Full-Stack | PHP",
+            "school": "Baltijos technologijų institutas",
+            "duration": "21 savaitė",
+            "description": ""
+        },
+        {
+            "start": "2015 / 09",
+            "end": "2018 / 06",
+            "title": "Burnos higiena",
+            "school": "Panevėžio kolegija",
+            "duration": "3 metai",
+            "description": ""
+        }
+    ],
+    "tooltip_home": "Pagrininis",
+    "tooltip_about": "Apie mane",
+    "tooltip_projects": "Projektai",
+    "tooltip_skills": "Įgūdžiai",
+    "tooltip_education": "Išsilavinimas",
+    "tooltip_jobs": "Darbo patirtis",
+    "tooltip_contact": "Susisiek su manimi!"
 }
