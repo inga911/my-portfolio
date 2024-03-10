@@ -4,7 +4,7 @@ import quote from "../components/images/quote.png";
 import scroll from "../components/images/infinite_scroll.png";
 import shop from "../components/images/shop-store.png";
 import calculator from "../components/images/calculator.png";
-import randomColors from "../components/images/randomColors.png";
+import randomColors from "../components/images/random-color.png";
 import hotel from "../components/images/hotel2.png";
 import i18n from "i18next";
 import { useTranslation, initReactI18next } from "react-i18next";
