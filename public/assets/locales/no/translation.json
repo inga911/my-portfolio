@@ -39,6 +39,7 @@
     "nav_resume": "Kort om meg",
     "nav_work": "Arbeidserfaring",
     "nav_skills": "Ferdigheter",
+    "nav_education": "Utdanning",
     "nav_projects": "Prosjekter",
     "nav_contact": "Ta kontakt meg",
     "contact_name_label": "Navn",
@@ -49,5 +50,39 @@
     "contact_subject_input": "Emne",
     "contact_message_label": "Meldingen",
     "contact_message_input": "Meldingen",
-    "send_message": "Send meldingen"
+    "send_message": "Send meldingen",
+    "education": "Utdanning",
+    "education_items": [
+        {
+            "start": "2024 / 02",
+            "end": "nå",
+            "title": "Junior Front-end TypeScript Programmer",
+            "school": "Code Academy",
+            "duration": "",
+            "description": ""
+        },
+        {
+            "start": "2022 / 12",
+            "end": "2023 / 05",
+            "title": "Full-Stack | PHP",
+            "school": "Baltic Institute of Technology",
+            "duration": "21 uker",
+            "description": ""
+        },
+        {
+            "start": "2015 / 09",
+            "end": "2018 / 06",
+            "title": "Tannhygiene",
+            "school": "Panevezys College",
+            "duration": "3 år",
+            "description": ""
+        }
+    ],
+    "tooltip_home": "Hjem",
+    "tooltip_about": "Om meg",
+    "tooltip_projects": "Prosjekter",
+    "tooltip_skills": "Ferdigheter",
+    "tooltip_education": "Utdanning",
+    "tooltip_jobs": "Arbeidserfaring",
+    "tooltip_contact": "Kontakt meg!"
 }

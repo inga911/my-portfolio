@@ -13,6 +13,8 @@ import Jobs from "./components/Jobs";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import Skills from "./components/Skills";
+import Education from "./components/Education";
+import "react-tooltip/dist/react-tooltip.css";
 
 function App() {
   return (
@@ -23,6 +25,7 @@ function App() {
       <About />
       <Projects />
       <Skills />
+      <Education />
       <Jobs />
       <Contact />
       <Footer />
