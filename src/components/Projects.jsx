@@ -5,6 +5,7 @@ import scroll from "../components/images/infinite_scroll.png";
 import shop from "../components/images/shop-store.png";
 import calculator from "../components/images/calculator.png";
 import randomColors from "../components/images/random-color.png";
+import qrCode from "../components/images/qr-code-generator.png";
 import hotel from "../components/images/hotel2.png";
 import i18n from "i18next";
 import { useTranslation, initReactI18next } from "react-i18next";
@@ -165,7 +166,32 @@ function Projects() {
               {t("see_project")}
             </a>
             <a
-              href="https://inga911.github.io/random-color/"
+              href="https://github.com/inga911/random-color"
+              className="link single-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_code")}
+            </a>
+          </div>
+        </div>
+
+        <div className="card">
+          <img className="img" src={qrCode} alt="/" />
+          <div className="card__name">
+            QR Code Generator | JavaScript + HTML + CSS
+          </div>
+          <div className="card__links">
+            <a
+              href="https://inga911.github.io/qr-code-generator/"
+              className="link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_project")}
+            </a>
+            <a
+              href="https://github.com/inga911/qr-code-generator"
               className="link single-link"
               target="_blank"
               rel="noopener noreferrer"
