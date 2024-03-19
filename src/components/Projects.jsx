@@ -45,6 +45,31 @@ function Projects() {
 
       <div className="project__cards">
         <div className="card">
+          <img className="img" src={hotel} alt="/" />
+          <div className="card__name">
+            Hotel Booking | PHP + Laravel + JS + SCSS
+          </div>
+          <div className="card__links">
+            <a
+              href="https://bookroom.website/"
+              className="link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_project")}
+            </a>
+            <a
+              href="https://github.com/inga911/hotel-booking/tree/main/hotel"
+              className="link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("see_code")}
+            </a>
+          </div>
+        </div>
+
+        <div className="card">
           <img className="img" src={mainprojectImg} alt="/" />
           <div className="card__name">Simple Todo app | PHP + Laravel</div>
           <div className="card__links">
